@@ -4,7 +4,7 @@ Full details can be found in the following four part series - https://www.ckn.io
 
 ## Local attacks
 
-To discovery all smart plugs in a network:
+To discover all smart plugs in a network:
 
 ```
 go run equeslocal.go --command=discover
