@@ -2,6 +2,7 @@ This repo contains exploit code/scripts for the eques elf smart plugs - https://
 
 Full details can be found in the following four part series - https://www.ckn.io/blog/2019/08/27/exploiting-the-eques-elf-smart-plug-part-one/
 
+The vulnerabilities have been allocated  CVE-2019-15745 - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-15745
 ## Local attacks
 
 To discover all smart plugs in a network:
